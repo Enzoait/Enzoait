@@ -1,4 +1,4 @@
-### 🇫🇷 French (english below)
+### 🇫🇷 Français (english below)
 
 ### Bienvenue sur mon GitHub 👋
 

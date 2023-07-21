@@ -22,9 +22,10 @@
   - [Site de documentation officielle de Katappult](http://docs.katappult.technology/docs/Accueil) Langages/Frameworks : React, HTML/CSS/JS
   - [Application générée par Katappult](https://github.com/katappult/default-template) Langages/Frameworks : HTML/CSS/JS, Primefaces
   - [Design responsive du site web de Nexitia](http://www.nexitia.com/) Langages/Frameworks : HTML/CSS/JS, Primefaces
+  - [Design responsive du site web de Katappult](http://www.katappult.cloud) Langages : HTML/CSS/JS, Primefaces
 
 - ☑ Projets sur lesquels je travaille actuellement :
-  - [Design responsive du site web de Katappult](http://www.katappult.cloud) Langages : HTML/CSS/JS, Primefaces
+  - [Katappult's Backoffice settings](http://www.katappult.cloud) Languages : React, HTML/CSS/JS
   - [Muzzer](https://www.github.com) Langages : HTML/CSS/JS
 
 ### 🇬🇧 
@@ -51,9 +52,10 @@
   - [Katappult's official documentation website](http://docs.katappult.technology/docs/Accueil) Languages/Frameworks : React, HTML/CSS/JS
   - [Katappult's generated app](https://github.com/katappult/default-template) Languages/Frameworks : HTML/CSS/JS, Primefaces
   - [Nexitia's website's responsive design](http://www.nexitia.com/) Languages/Frameworks : HTML/CSS/JS, Primefaces
+  - [Katappult's website's responsive design](http://www.katappult.cloud) Languages : HTML/CSS/JS, Primefaces
 
 - ☑ Projects I'm working on :
-- - [Katappult's website's responsive design](http://www.katappult.cloud) Languages : HTML/CSS/JS, Primefaces
+- - [Katappult's Backoffice settings](http://www.katappult.cloud) Languages : React, HTML/CSS/JS
   - [Muzzer](https://www.github.com) Languages : HTML/CSS/JS
 
 

@@ -30,7 +30,7 @@
 
 ### 🇬🇧 
 
-### Welcome to my GitHub 👋
+### Welcome to my GitHub ! 👋
 
 #### I'm Enzo and I'm a french student currently in 2nd year of [Numeric Engineering Bachelor at ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/)
 

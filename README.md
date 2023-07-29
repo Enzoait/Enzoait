@@ -25,7 +25,7 @@
   - [Design responsive du site web de Katappult](http://www.katappult.cloud) Langages : HTML/CSS/JS, Primefaces
 
 - ☑ Projets sur lesquels je travaille actuellement :
-  - [Katappult's Backoffice settings]([https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
+  - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
   - [Muzzer](https://www.github.com) Langages : HTML/CSS/JS
 
 ### 🇬🇧 

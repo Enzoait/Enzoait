@@ -26,7 +26,7 @@
 
 - ☑ Projets sur lesquels je travaille actuellement :
   - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
-  - [Muzzer](https://www.github.com) Langages : HTML/CSS/JS
+  - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
 
 ### 🇬🇧 
 
@@ -56,6 +56,6 @@
 
 - ☑ Projects I'm working on :
 - - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
-  - [Muzzer](https://www.github.com) Languages : HTML/CSS/JS
+  - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
 
 

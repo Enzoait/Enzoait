@@ -1,6 +1,6 @@
 ### 🇫🇷 Français (english below)
 
-### Bienvenue sur mon GitHub👋
+### Bienvenue sur mon GitHub 👋
 
 #### Je m'appelle Enzo et je suis un étudiant actuellement en deuxième année de [Bachelor Ingénierie Numérique à l'ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/).
 

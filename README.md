@@ -6,9 +6,8 @@
 
 ##### Je suis à la recherche d'une entreprise où effectuer une alterance d'un an en temps que développeur web ! 🥪
 
-- 🔭 Je travaille actuellement chez [NEXITIA](http://www.nexitia.com)
-- 📄 Je travaille actuellement sur [Katappult](http://www.katappult.cloud)
-- 🌱 J'apprends actuellement : React, Primefaces
+- 🔭 Je étudie actuellement à l' [ESILV](http://www.esilv.fr) 
+- 🌱 J'apprends actuellement : React
 - 📫 Comment me contacter :
   - Mail : enzo.aityakoub@gmail.com
   - Téléphone : +33 6 52 88 53 53
@@ -36,9 +35,8 @@
 
 ##### Im looking for a company to hire me for 1 year as a sandwich course student 🥪
 
-- 🔭 I’m currently working at [NEXITIA](http://www.nexitia.com)
-- 📄 I’m currently working on [Katappult](http://www.katappult.cloud)
-- 🌱 I’m currently learning React, Primefaces
+- 🔭 I’m currently studying at [ESILV](http://www.esilv.fr)
+- 🌱 I’m currently learning React
 - 📫 How to reach me: 
 - - Mail : enzo.aityakoub@gmail.com
   - Phone : +33 6 52 88 53 53

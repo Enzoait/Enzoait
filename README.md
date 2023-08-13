@@ -22,9 +22,9 @@
   - [Application générée par Katappult](https://github.com/katappult/default-template) Langages/Frameworks : HTML/CSS/JS, Primefaces
   - [Design responsive du site web de Nexitia](http://www.nexitia.com/) Langages/Frameworks : HTML/CSS/JS, Primefaces
   - [Design responsive du site web de Katappult](http://www.katappult.cloud) Langages : HTML/CSS/JS, Primefaces
+  - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
 
 - ☑ Projets sur lesquels je travaille actuellement :
-  - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
   - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
 
 ### 🇬🇧 
@@ -51,9 +51,9 @@
   - [Katappult's generated app](https://github.com/katappult/default-template) Languages/Frameworks : HTML/CSS/JS, Primefaces
   - [Nexitia's website's responsive design](http://www.nexitia.com/) Languages/Frameworks : HTML/CSS/JS, Primefaces
   - [Katappult's website's responsive design](http://www.katappult.cloud) Languages : HTML/CSS/JS, Primefaces
+  - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
 
 - ☑ Projects I'm working on :
-- - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
-  - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
+- - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
 
 

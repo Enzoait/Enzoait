@@ -34,7 +34,7 @@
 
 #### I'm Enzo and I'm a french student currently in 2nd year of [Numeric Engineering Bachelor at ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/)
 
-##### Im looking for a company to hire me for 1 year as a sandwich course student 🥪
+##### Im looking for a company to hire me for a 1 year apprenticeship contract as a sandwich course student 🥪
 
 - 🔭 I’m currently studying at [ESILV](http://www.esilv.fr)
 - 🌱 I’m currently learning React

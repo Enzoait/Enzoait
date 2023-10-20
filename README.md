@@ -24,6 +24,7 @@
   - [Design responsive du site web de Katappult](http://www.katappult.cloud) Langages : HTML/CSS/JS, Primefaces
   - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Langages : React, HTML/CSS/JS
   - [Incrementation](https://github.com/Enzoait/Incrementation) Langages : React, HTML/CSS/JS
+  - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm)Langages : Python
 
 - ☑ Projets sur lesquels je travaille actuellement :
   - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
@@ -54,6 +55,7 @@
   - [Katappult's website's responsive design](http://www.katappult.cloud) Languages : HTML/CSS/JS, Primefaces
   - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
   - [Incrementation](https://github.com/Enzoait/Incrementation) Languages : React, HTML/CSS/JS
+  - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm)Languages : Python
 
 - ☑ Projects I'm working on :
 - - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS

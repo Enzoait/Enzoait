@@ -7,7 +7,7 @@
 ##### Je suis à la recherche d'une entreprise où effectuer un stage de 5-6 mois à partir du 25 mars 2024 💼
 
 - 🔭 Je étudie actuellement à l' [ESILV](http://www.esilv.fr) 
-- 🌱 J'apprends actuellement : React, C#, C++
+- 🌱 J'apprends actuellement : React, C#, C++, NoSQL (MongoDB)
 - 📫 Comment me contacter :
   - Mail : enzo.aityakoub@gmail.com
   - Téléphone : +33 6 52 88 53 53
@@ -38,7 +38,7 @@
 ##### Im looking for a company to hire me for a 5-6 months long internship starting March 25th 2024 💼
 
 - 🔭 I’m currently studying at [ESILV](http://www.esilv.fr)
-- 🌱 I’m currently learning React, C#, C++
+- 🌱 I’m currently learning React, C#, C++, NoSQL (MongoDB)
 - 📫 How to reach me: 
 - - Mail : enzo.aityakoub@gmail.com
   - Phone : +33 6 52 88 53 53

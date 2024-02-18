@@ -25,10 +25,11 @@
   - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Langages : React, HTML/CSS/JS
   - [Incrementation](https://github.com/Enzoait/Incrementation) Langages : React, HTML/CSS/JS
   - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm) Langages : Python
+  - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Langages/Frameworks : React
 
 - ☑ Projets sur lesquels je travaille actuellement :
   - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
-  - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Langages/Frameworks : React
+  
 
 ### 🇬🇧 
 
@@ -57,9 +58,10 @@
   - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
   - [Incrementation](https://github.com/Enzoait/Incrementation) Languages : React, HTML/CSS/JS
   - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm)Languages : Python
+  - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Languages/Frameworks : React
 
 - ☑ Projects I'm working on :
 - - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
-  - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Languages/Frameworks : React
+  
 
 

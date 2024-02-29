@@ -29,6 +29,7 @@
 
 - ☑ Projets sur lesquels je travaille actuellement :
   - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
+  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Langages/Frameworks : React Native, TypeScript
   
 
 ### 🇬🇧 
@@ -62,6 +63,7 @@
 
 - ☑ Projects I'm working on :
 - - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
+  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Languages/Frameworks : React Native, TypeScript
   
 
 

@@ -4,7 +4,7 @@
 
 #### Je m'appelle Enzo et je suis un étudiant actuellement en deuxième année de [Bachelor Ingénierie Numérique à l'ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/).
 
-##### Je suis à la recherche d'une entreprise où effectuer un stage de 5-6 mois à partir du 25 mars 2024 💼
+##### Je suis actuellement à la recherche d'une entreprise où effectuer un stage de 5-6 mois 💼
 
 - 🔭 Je étudie actuellement à l' [ESILV](http://www.esilv.fr) 
 - 🌱 J'apprends actuellement : React, C#, C++, NoSQL (MongoDB), Kotlin
@@ -38,7 +38,7 @@
 
 #### I'm Enzo and I'm a french student currently in 2nd year of [Numeric Engineering Bachelor at ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/)
 
-##### Im looking for a company to hire me for a 5-6 months long internship starting March 25th 2024 💼
+##### Im currently looking for a company to hire me for a 5-6 months long internship 💼
 
 - 🔭 I’m currently studying at [ESILV](http://www.esilv.fr)
 - 🌱 I’m currently learning React, C#, C++, NoSQL (MongoDB), Kotlin

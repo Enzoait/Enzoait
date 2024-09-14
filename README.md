@@ -4,10 +4,8 @@
 
 #### Je m'appelle Enzo et je suis un étudiant actuellement en troisième année de [Bachelor Ingénierie Numérique à l'ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/).
 
-##### Je suis actuellement à la recherche d'une entreprise pour me prendre en alternance pour une durée de 2 ans pour poursuivre mes études en Master 💼
-
 - 🔭 Je étudie actuellement à l' [ESILV](http://www.esilv.fr) 
-- 🌱 J'apprends actuellement : React, C#, C++, NoSQL (MongoDB), Kotlin
+- 🌱 J'apprends actuellement : React, C#, Angular, Python Orienté objet
 - 📫 Comment me contacter :
   - Mail : enzo.aityakoub@gmail.com
   - Téléphone : +33 6 52 88 53 53
@@ -26,10 +24,11 @@
   - [Incrementation](https://github.com/Enzoait/Incrementation) Langages : React, HTML/CSS/JS
   - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm) Langages : Python
   - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Langages/Frameworks : React
+  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Langages/Frameworks : React Native, TypeScript
 
 - ☑ Projets sur lesquels je travaille actuellement :
   - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
-  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Langages/Frameworks : React Native, TypeScript
+  - D'autres projets pas bientôt dispos !
   
 
 ### 🇬🇧 
@@ -38,10 +37,8 @@
 
 #### I'm Enzo and I'm a french student currently in 3rd year of [Numeric Engineering Bachelor at ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/)
 
-##### Im currently looking for a company to hire me for a 2 years apprenticeship to pursue my studies 💼
-
 - 🔭 I’m currently studying at [ESILV](http://www.esilv.fr)
-- 🌱 I’m currently learning React, C#, C++, NoSQL (MongoDB), Kotlin
+- 🌱 I’m currently learning React, C#, Angular, Oriented Object Python
 - 📫 How to reach me: 
 - - Mail : enzo.aityakoub@gmail.com
   - Phone : +33 6 52 88 53 53
@@ -60,10 +57,12 @@
   - [Incrementation](https://github.com/Enzoait/Incrementation) Languages : React, HTML/CSS/JS
   - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm)Languages : Python
   - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Languages/Frameworks : React
+  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Languages/Frameworks : React Native, TypeScript
 
 - ☑ Projects I'm working on :
 - - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
-  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Languages/Frameworks : React Native, TypeScript
+  - Other projects soon to be released !
+  
   
 
 

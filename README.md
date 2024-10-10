@@ -28,7 +28,7 @@
 
 - ☑ Projets sur lesquels je travaille actuellement :
   - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
-  - D'autres projets pas bientôt dispos !
+  - D'autres projets bientôt dispos !
   
 
 ### 🇬🇧 

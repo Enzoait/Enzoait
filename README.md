@@ -2,9 +2,9 @@
 
 ### Bienvenue sur mon GitHub 👋
 
-#### Je m'appelle Enzo et je suis un étudiant actuellement en troisième année de [Bachelor Ingénierie Numérique à l'ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/).
+#### Je m'appelle Enzo et je suis un étudiant actuellement en [M1 Lead Développeur Full-Stack](https://www.iim.fr/cursus/mastere-developpeur-full-stack/).
 
-- 🔭 Je étudie actuellement à l' [ESILV](http://www.esilv.fr) 
+- 🔭 Je étudie actuellement à l' [IIM](http://www.iim.fr) 
 - 🌱 J'apprends actuellement : React, C#, Angular, Python Orienté objet
 - 📫 Comment me contacter :
   - Mail : enzo.aityakoub@gmail.com
@@ -35,9 +35,9 @@
 
 ### Welcome to my GitHub !👋
 
-#### I'm Enzo and I'm a french student currently in 3rd year of [Numeric Engineering Bachelor at ESILV](https://www.esilv.fr/formations/bachelor-ingenierie-numerique/)
+#### I'm Enzo and I'm a french student currently pursuing a Master Degree [Full-Stack Development](https://www.iim.fr/cursus/mastere-developpeur-full-stack/)
 
-- 🔭 I’m currently studying at [ESILV](http://www.esilv.fr)
+- 🔭 I’m currently studying at [IIM](http://www.iim.fr) 
 - 🌱 I’m currently learning React, C#, Angular, Oriented Object Python
 - 📫 How to reach me: 
 - - Mail : enzo.aityakoub@gmail.com

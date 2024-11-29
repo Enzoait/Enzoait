@@ -8,7 +8,6 @@
 - 🌱 J'apprends actuellement : React, C#, Angular, Python Orienté objet
 - 📫 Comment me contacter :
   - Mail : enzo.aityakoub@gmail.com
-  - Téléphone : +33 6 52 88 53 53
   - LinkedIn : [Enzo AIT-YAKOUB](https://fr.linkedin.com/in/enzo-ait-yakoub-a19254231)
 - ✅ Projets sur lesquels j'ai travaillé :
   - [Anim'API](https://github.com/Enzoait/ProjetNodeJS) Langages/Frameworks : Node.js
@@ -41,7 +40,6 @@
 - 🌱 I’m currently learning React, C#, Angular, Oriented Object Python
 - 📫 How to reach me: 
 - - Mail : enzo.aityakoub@gmail.com
-  - Phone : +33 6 52 88 53 53
   - Linked-In : [Enzo AIT-YAKOUB](https://fr.linkedin.com/in/enzo-ait-yakoub-a19254231)
 - ✅ Projects I worked on :
 - - [Anim'API](https://github.com/Enzoait/ProjetNodeJS) Languages/Frameworks : Node.js

@@ -1,66 +1,17 @@
-### 🇫🇷 Français (english below)
-
-### Bienvenue sur mon GitHub 👋
+# Bienvenue sur mon GitHub 👋
 
 #### Je m'appelle Enzo et je suis un étudiant actuellement en [M1 Lead Développeur Full-Stack](https://www.iim.fr/cursus/mastere-developpeur-full-stack/).
 
-- 🔭 Je étudie actuellement à l' [IIM](http://www.iim.fr) 
-- 🌱 J'apprends actuellement : React, C#, Angular, Python Orienté objet
-- 📫 Comment me contacter :
-  - Mail : enzo.aityakoub@gmail.com
-  - LinkedIn : [Enzo AIT-YAKOUB](https://fr.linkedin.com/in/enzo-ait-yakoub-a19254231)
-- ✅ Projets sur lesquels j'ai travaillé :
-  - [Anim'API](https://github.com/Enzoait/ProjetNodeJS) Langages/Frameworks : Node.js
-  - [ToDoList](https://github.com/Enzoait/ToDoList) Langages/Frameworks : PHP, HTML/CSS
-  - [SimpleLoginPage](https://github.com/Enzoait/simpleloginpage) Langages/Frameworks : HTML/CSS, Javascript
-  - [GestionEntreprise](https://github.com/Enzoait/ToDoList) Langages/Frameworks : Java
-  - [GestionConference](https://github.com/Enzoait/ToDoList) Langages/Frameworks : Java, J2EE
-  - [Site de documentation officielle de Katappult](http://docs.katappult.technology/docs/Accueil) Langages/Frameworks : React, HTML/CSS/JS
-  - [Application générée par Katappult](https://github.com/katappult/default-template) Langages/Frameworks : HTML/CSS/JS, Primefaces
-  - [Design responsive du site web de Nexitia](http://www.nexitia.com/) Langages/Frameworks : HTML/CSS/JS, Primefaces
-  - [Design responsive du site web de Katappult](http://www.katappult.cloud) Langages : HTML/CSS/JS, Primefaces
-  - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Langages : React, HTML/CSS/JS
-  - [Incrementation](https://github.com/Enzoait/Incrementation) Langages : React, HTML/CSS/JS
-  - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm) Langages : Python
-  - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Langages/Frameworks : React
-  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Langages/Frameworks : React Native, TypeScript
-
-- ☑ Projets sur lesquels je travaille actuellement :
-  - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Langages : HTML/CSS/JS
-  - D'autres projets bientôt dispos !
-  
-
-### 🇬🇧 
-
-### Welcome to my GitHub !👋
-
-#### I'm Enzo and I'm a french student currently pursuing a Master Degree [Full-Stack Development](https://www.iim.fr/cursus/mastere-developpeur-full-stack/)
-
-- 🔭 I’m currently studying at [IIM](http://www.iim.fr) 
-- 🌱 I’m currently learning React, C#, Angular, Oriented Object Python
-- 📫 How to reach me: 
-- - Mail : enzo.aityakoub@gmail.com
-  - Linked-In : [Enzo AIT-YAKOUB](https://fr.linkedin.com/in/enzo-ait-yakoub-a19254231)
-- ✅ Projects I worked on :
-- - [Anim'API](https://github.com/Enzoait/ProjetNodeJS) Languages/Frameworks : Node.js
-  - [ToDoList](https://github.com/Enzoait/ToDoList) Languages/Frameworks : PHP, HTML/CSS
-  - [SimpleLoginPage](https://github.com/Enzoait/simpleloginpage) Languages/Frameworks : HTML/CSS, Javascript
-  - [GestionEntreprise](https://github.com/Enzoait/ToDoList) Languages/Frameworks : Java
-  - [GestionConference](https://github.com/Enzoait/ToDoList) Languages/Frameworks : Java, J2EE
-  - [Katappult's official documentation website](http://docs.katappult.technology/docs/Accueil) Languages/Frameworks : React, HTML/CSS/JS
-  - [Katappult's generated app](https://github.com/katappult/default-template) Languages/Frameworks : HTML/CSS/JS, Primefaces
-  - [Nexitia's website's responsive design](http://www.nexitia.com/) Languages/Frameworks : HTML/CSS/JS, Primefaces
-  - [Katappult's website's responsive design](http://www.katappult.cloud) Languages : HTML/CSS/JS, Primefaces
-  - [Katappult's Backoffice settings](https://github.com/katappult/figma-enzo) Languages : React, HTML/CSS/JS
-  - [Incrementation](https://github.com/Enzoait/Incrementation) Languages : React, HTML/CSS/JS
-  - [A🌟 algorithm](https://github.com/Enzoait/a-star-algorithm)Languages : Python
-  - [Jojo Shifumi](https://www.github.com/Enzoait/jojoshifumi) Languages/Frameworks : React
-  - [JojoFit](https://www.github.com/Enzoait/JojoFit) Languages/Frameworks : React Native, TypeScript
-
-- ☑ Projects I'm working on :
-- - [ThumbExt.](https://www.github.com/Enzoait/ThumbExt) Languages : HTML/CSS/JS
-  - Other projects soon to be released !
-  
-  
+## 💫 A propos de moi :
+🔭J'étudie actuellement à l' [IIM](http://www.iim.fr) <br>💼 Je travaille actuellement en tant qu'Apprenti Développeur Full-Stack<br>📄 J'ai occupé des postes de Développeur Application & Développeur Front-end<br>🌱 J'apprends actuellement : TypeScript, React, Next.js, Python<br>🔎 Mon profil [Linked-In](https://www.linkedin.com/in/enzo-ait-yakoub-a19254231/) 
 
 
+## 🌐 Contact :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ait-yakoub-a19254231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enzo.aityakoub@gmail.com) 
+
+## 💻 Ma stack technique :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Enzoait&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Enzoait&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoait&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

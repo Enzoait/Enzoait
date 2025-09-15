@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub ! 👋
 
-#### Je m'appelle Enzo et je suis un étudiant actuellement en [M1 Lead Développeur Full-Stack](https://www.iim.fr/cursus/mastere-developpeur-full-stack/).
+#### Je m'appelle Enzo et je suis un étudiant actuellement en [M2 Lead Développeur Full-Stack](https://www.iim.fr/cursus/mastere-developpeur-full-stack/).
 #### J'ai créé [SecureCommit](https://marketplace.visualstudio.com/items?itemName=Enzoait.securecommit), une extension Visual Studio Code qui aide les développeurs débutants à éviter de laisser apparaitre des informations sensibles dans leurs commits.
 
 ## 💫 A propos de moi :

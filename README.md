@@ -6,7 +6,7 @@
 #### Learn more about me and explore some of my work on my [portfolio](https://www.enzoaityakoub.com/en).
 
 ## 💫 About me :
-🔭I'm currently studying at [IIM](http://www.iim.fr) in France <br>💼 I worked as an apprentice Full-Stack Developer at [Mobilize Financial Services (Renault Group)](https://www.mobilize-fs.com/en) <br>📄 I've previously held Application Developer & Front-end Developer positions<br>🌱 I'm currently learning : TypeScript, React, Next.js, Python<br>🔎 My [Linked-In](https://www.linkedin.com/in/enzo-ait-yakoub-a19254231/) profile
+🔭I graduated with a degree in Computer Science at [IIM](http://www.iim.fr) in France <br>💼 I worked as an apprentice Full-Stack Developer at [Mobilize Financial Services (Renault Group)](https://www.mobilize-fs.com/en) <br>📄 I've previously held Application Developer & Front-end Developer positions<br>🌱 I'm currently learning : TypeScript, React, Next.js, Python<br>🔎 My [Linked-In](https://www.linkedin.com/in/enzo-ait-yakoub-a19254231/) profile
 
 
 ## 🌐 Contact :
